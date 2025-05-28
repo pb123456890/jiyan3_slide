@@ -1,0 +1,94 @@
+1、发送https://demos.geetest.com/gt/register-slide?t=1747844229639
+获取
+"challenge1": "dd014f022cd3d173e1867994a5f2b167",
+"gt": "019924a82c70bb123aae90d483087f94",
+
+
+2、发送
+https://apiv6.geetest.com/gettype.php?gt=019924a82c70bb123aae90d483087f94&callback=geetest_1747848418221
+携带gt、challenge1、w
+w不校验
+
+3、发送
+https://apiv6.geetest.com/get.php?gt=019924a82c70bb123aae90d483087f94&challenge=7570e5cb23bb811b6e618b0daa320093&lang=zh-cn&pt=0&client_type=web&w=NPIBQpiScnUEK3N1v1jTN(V2FeQMjYpmPxQ5tqMl1RGXrX5VQLcZ6EyrK2MiTjGzR7pK3ZUoBkLbNUWXpSqhumrn0T(smXApUpxBm0(n5e9AOPZsqCOTzJxIq23)na(YzMGu)iw2IeSeLgNfpiqywP9Uc)gbaqGbi((VJTwUX21u1TByra0hXKRAF3z8yznSrGqBJZUxiqMU)GeSKWlsGI2wCNySNwGcOdzYT(uSIaxeH3jGgFAWsh2ta5GFQ8EM5b2GnAxnqolbo6E)Moye8JHKWcrlMJ0WpYyt09pK28DWTddrllpFmQ8QmKvC6kEq9guADz2)p0P)F3hxVjtR4l9zSUEtK7VIKNLOE0qTy3E2nPzqX2ILn0xHNjlGCpQf4IFv(UGR2)GU(1AvswHgkfq6kuSYnKLvESkUblI3qEEYRTnGGCRn7BZPUHJtnWDSgJsEH1I3ofW2LX1Cuq4eOv(Eojxh)hs3cOHkA9CEdu(xeKss30DMzL2)k0j1GDwraWJv4GTeVbAzUnOvOAyymaayVmo9IQcg8h3yedVFkJwEhugirSyyJcffl84WSXBD)2r3TYwOzy1AMAZsggFnyaWNCcKflZjzbv4Yqz51eGAuE37K(RbW8Snmq5HoTel2c1fdNMmwB0(BxeFzmyua29eqgzS1ohNLh((Haj29b3PJXy6ut2qFfgLNwcpKp(N9B5P(AYkdu56t(Aek9wUE4XJK(jRIwe)xyxpP(VrWgZoxz5rslSyJtipEAX1S1ZirhkbU9Vd6BND8WGU)9CjTGzeYQW8twLNPhjQd)zcmuWhkAC6rfdok4ZRHOWcoJ)hjS7fXFcPDnfHRVE(jDJ)b71E80pnPYOQZQDkqLAW)zA14U7(4qhvyBNst3vEd5)SBoiyJydpCtp7o6QOVYXtxO5mdd2Nk3X1cIzcRfHqtee)jmG98l7yWjL90)6ts245ZUJn5JME4Cx89tBV6Qsy6sWwjIMRIy5OsW)TQrOy44)Mzkf4qmxcqMg2sGJgYhv(nmKJBA3Eg7XoL8mgLJICOTTt1o(KNeQkZDHq1xL2JarRaK(dqcbkCAFYqjR3)tgclJIgEo9dfKQUEsm1dEdisrzc8z6dZBhuEmv3BiNhYXAd)0WJdDT3drybVZludNOrk)XvZJit4tvN4YCGQmBUndSaWIHJ7N)RORs6gj4sTT6QkzV8MDu98jcfYi)eHj6(kcqHNMn8WxRae)53(i7RaYdfKKDCOldXmn5bdvuXZlbs.57f83ceff38d27b038f3c9086135a1a2a10bbe159556e948693920e925c77716ac5c71aea7b4ac138d2627cd988285998c950de90ae428077a3d97deaacdac4e80afe687ab0b30fa885bbd0cd057a41b09604158e991b3af9754eede9bc3299c6418f0b564005f35cc11e2f1018de022bb2e14bac4214a64d7192f4724edc881&callback=geetest_1747848414270
+携带gt、challenge1、w
+w不校验
+
+4、发送
+https://api.geevisit.com/ajax.php?gt=019924a82c70bb123aae90d483087f94&challenge=7570e5cb23bb811b6e618b0daa320093&lang=zh-cn&pt=0&client_type=web&w=NnB0DrcVP0Iir2upm71e86c1wwbAtAAfw1F48t8QSu(7deyf(NSdDwZEjGhrR)Qq9UrseuJmfD2GAvm58BGjPaepRMIS71X4xQmXvcuvrPnejlRB4cgJeRoqX9RyLwzNkfvr4vFBZCJ3jblMpzLucKsIIAwHSlKpX5xaD5ZL9QMOX0aD1mIHiQDGygWJkOkP49EGzCCoDTE4QuUl2Y22(93IZFZg62WXcOpLR(mgIZIR74p(yygXV5Tmi73wsa7C6NrXiUkg8rJviuwKX0lGvU3KfKLmMqapuG0sENR)nMnOTCkEHthhNzjwdh7i7He3hAbwAB(FR(13i)eq9LeUz6Uc07vKx1uxlffRSI0grST0BK2N9KqOizG4CxLbM0dNOx4VZbq1eb1lO)SGUy7BmmmrOgBHD484JA(sdtbKD52cyIQ)jiI)sy9EqiaQ1KAsb91n)ZHfahEhJGjI551PrwbavwPZa4Tl9ctXZjmPGtqcuEx3vh(YRXyEI)mSpy8wPh9tnm0SY)V1nEDMm3OonwIYh59NZJeRtm6YTnDk7Xp4n(VZYI7M3zkoo(pie7(g36XZzhdE1tmtd5gk3VLwl9nBLPpg7p1Q7sj6Hw)(ezn9Yz(ImiFaoRflWzCo70sWZXZ50WtiuxA9kKhbmTXT2ZJ2NAZK(J8xh8(ChsGyOfgpU)icPr82mIK93zrFoooi13oPa50sT4ag)yMR8IocaGBIlm(oxC7A8OZG)69iqRL2)2gjS5zEcByF6xdzHNORslkHm26Le4mtySecHbyQa1aSlIgyagOMu5TqMwikaUvkgj3vXYB9VloBrpC7DFT8lF4hW9dcHusgZLNEmVAs0WzOoyKqaIUaiKUw2PvOUfaMq4klYH4W9A6XKVEM9xz1jrZFL2llfwRlybVpCOTWCTw5Xj0fg1XJzt5Foiou5T1Rr5MpCMWhmaeA4UtwXFmXTbZlvfU)3hOT6xAYHQn10X6zxiGr)D3gj5setoTnd67uaXfDiT018InxhWDbzGdRC1TZ(1nmlrw2STf0leLAzhvULbfHYEZl44fxNNTJv3eJoMni30GgJzLZZ8boR5zugsjv(NE8)pt0Nm(UAlJ7dHwraSXI1az7LOl(Dh4XcHXzpUAhd5akWdXSnabEcDssx(1(7lCYV8LuaWEznm5VkBD6elK4MdU0I7IzROuxmX8RxRHsSlcjYLU2K44RbQVQ5IzxXnjbBL5Z4tcxausDKTsRGVEhfN8WIer03dJ5qep0E9D(9NPS5BIqKwfZwosxfb6q(b5w)21U6BBBgm0emRAO6nB1uE4Qcn(NNJAqV6qC11k5aWeysQcfR)S8)uymiGzyoamuEv5Cq0Txr6GyPHlw4)eIH78dslHauSfi(z9ss5tFNCWzE8jXloHw9Gw0zezsxyq2j216xLZekv)Z2YNLTgYWHpnHYk)fv(7cJCBTU(B23HGF4XsBXAtrS3gaYoGHkS9mLZqf7EX7c8Sb1rmlCJF6DPmT9HXaYTL5zr5V(3WN(Ig(ZrjJBc8axL4FFAjhx5XSFPGRsR6uEIxIWQpudvPukUfAAq2obbj5JBd9CoFrH8syn9)TjYxxntQ2AM0adjEsqxZcu6Fw)ZS9omAgOrnlmtYk2qaAAoRQ30iKKMYt6NbUiPAm1y7ARHf7qIuH38)1sseWc3QOJLPW1mJMDuzxYdeRm9saPLa6zAN9pR2VZFpVqET0hMSejdIpZXjiLTK9Eeu30yYnZXDgxZhRl849P1AcZ1OZ0my3tvYnOJn6EQvQtka9nbDNoCISBCOXWtNGYsWDga9qReQrvxIDco4(YMOxkVw)dcF2BUUyhOyzHlS2jLEPvXzo2rmckx4tDUQzojGf1VH8QWK8ui3fCA2IpQ1hBTTfCc0NSNqxvMo0TtnQFD3zWHy2Wu69U6fv003LjNJWH8vWUG8Q7gf6JtNGEmQYh(DTpwMzjrKb5N5Qasgh4KJKRNeAMiLKJxRjHZgiWHdcjwH54Z2mgqJn4SbWOPZOrW(vCyyhoExTihAT9UdQa(tR4ztvRo)QpxqYaBYjta3Q0ectOGwWBJeO24FP2qcLBnBx)24dgtnXVPPzLT7w5x)PR4NLuLV)4UEZpSKOpSRTNcMT1FEgQHgxDg1Op2fmZZiV6eZB92ztNPClgCJ)EUB(IUKEzx(ooXsbYUsOay0VNfuU8PRjEcAkLf4Mng83xSJP69yoeCicSiburL4AIOsgRd84PCnSBIEWUJ1(dRbOGb0DRLKVG)zJz)sAzPGfRZhgEvPEcCHi86ZGWl6(1mDl8U9MVrIBVDmZqRMIb2)HgQhe6kx3frWmOeKirxx7jRY8UDvcYPv0kxWKatngLTtQ5Lnp3x1WaJusCPLpSanlRpg0cTWwjxozfkcWICXjBpkrZPOdJor2VNA9(GB1rkgZs4AzUZxI(CHTeHMT1wCYj(kt2)n1mQ..&callback=geetest_1747848415327
+携带gt、challenge1、w
+w不校验
+
+5、发送
+https://api.geevisit.com/get.php?is_next=true&type=slide3&
+gt=019924a82c70bb123aae90d483087f94
+&challenge=dd014f022cd3d173e1867994a5f2b167
+&lang=zh-cn&https=true&protocol=https%3A%2F%2F&offline=false&product=embed&api_server=api.geevisit.com&isPC=true&autoReset=true&width=100%25&callback=geetest_1747844320863
+获取
+"gt": "019924a82c70bb123aae90d483087f94", // 不变
+"challenge2": "dd014f022cd3d173e1867994a5f2b1678t", // challenge1+两个字符
+获取底图、滑块图片
+
+必须完成1-5的顺序发送相应的数据包，才能获取到第5步的数据
+
+6、发送轨迹验证
+携带gt、challenge2、w发送验证
+
+
+轨迹信息分析
+重要的数据
+// userresponse = H(滑块移动距离, challenge2)
+// passtime 滑动时间
+// aa 轨迹  与第5个数据包相应的c和s相关
+// ep 轨迹时间戳
+// rp   md5(gt + challenge1 + passtime)
+var o = {
+    "lang": "zh-cn",
+    "userresponse": "ee777e777ec04",
+    "passtime": 146,
+    "imgload": 122,
+    "aa": "T(!!HssHsssssssssssssssssssssstssssssssssssssDssssssstsss(!!(G.*---),,*,)***)k),(***)*)*)**))**))*S****)***,,.*./4",
+    "ep": {
+        "v": "7.9.3",
+        "$_BIT": false,
+        "me": true,
+        "tm": {
+            "a": 1747842049687,
+            "b": 1747842049836,
+            "c": 1747842049836,
+            "d": 0,
+            "e": 0,
+            "f": 1747842049690,
+            "g": 1747842049690,
+            "h": 1747842049690,
+            "i": 1747842049690,
+            "j": 1747842049690,
+            "k": 0,
+            "l": 1747842049798,
+            "m": 1747842049833,
+            "n": 1747842049834,
+            "o": 1747842049839,
+            "p": 1747842050238,
+            "q": 1747842050238,
+            "r": 1747842050241,
+            "s": 1747842050243,
+            "t": 1747842050243,
+            "u": 1747842050243
+        },
+        "td": -1
+    },
+    "h9s9": "1816378497",
+    "rp": "3f9662e1df0d60bb0d8825f1260b27c7"
+}
+
+***最终结果情况***
+1、param decrypt error 意味着w值有问题，如果是扣代码能出值的情况，大概率是u和l使用了rt()函数，生成了两个不同的字符串
+2、illegal challenge challenge值错误，这个问题没遇到，别写死从第5步的响应包中获取
+3、fail 水平位移不对
+4、forbidden 水平位移对了，轨迹被检测
+
+
+
+
+
+
